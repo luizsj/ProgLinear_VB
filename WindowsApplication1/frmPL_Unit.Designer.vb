@@ -22,36 +22,43 @@ Partial Class frmPL
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim ChartArea3 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
-        Dim Legend3 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Series9 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
-        Dim DataPoint17 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(3.0R, 0.0R)
-        Dim DataPoint18 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 7.5R)
-        Dim Series10 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
-        Dim DataPoint19 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(2.0R, 0.0R)
-        Dim DataPoint20 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 57.0R)
-        Dim Series11 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
-        Dim DataPoint21 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 6.0R)
-        Dim DataPoint22 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 6.0R)
-        Dim Series12 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
-        Dim DataPoint23 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 0.0R)
-        Dim DataPoint24 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 6.0R)
-        Dim ChartArea4 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
-        Dim Legend4 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Series13 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
-        Dim DataPoint25 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(3.0R, 0.0R)
-        Dim DataPoint26 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 7.5R)
-        Dim Series14 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
-        Dim DataPoint27 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(2.0R, 0.0R)
-        Dim DataPoint28 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 57.0R)
-        Dim Series15 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
-        Dim DataPoint29 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 6.0R)
-        Dim DataPoint30 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 6.0R)
-        Dim Series16 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
-        Dim DataPoint31 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 0.0R)
-        Dim DataPoint32 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 6.0R)
+        Dim ChartArea1 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim Legend1 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
+        Dim Series1 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim DataPoint1 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(3.0R, 0.0R)
+        Dim DataPoint2 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 7.5R)
+        Dim Series2 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim DataPoint3 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(2.0R, 0.0R)
+        Dim DataPoint4 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 57.0R)
+        Dim Series3 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim DataPoint5 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 6.0R)
+        Dim DataPoint6 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 6.0R)
+        Dim Series4 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim DataPoint7 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 0.0R)
+        Dim DataPoint8 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 6.0R)
+        Dim ChartArea2 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim Legend2 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
+        Dim Series5 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim DataPoint9 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(3.0R, 0.0R)
+        Dim DataPoint10 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 7.5R)
+        Dim Series6 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim DataPoint11 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(2.0R, 0.0R)
+        Dim DataPoint12 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 57.0R)
+        Dim Series7 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim DataPoint13 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 6.0R)
+        Dim DataPoint14 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(0.0R, 6.0R)
+        Dim Series8 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim DataPoint15 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 0.0R)
+        Dim DataPoint16 As System.Windows.Forms.DataVisualization.Charting.DataPoint = New System.Windows.Forms.DataVisualization.Charting.DataPoint(4.5R, 6.0R)
+        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle3 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle5 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle6 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle7 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle8 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle9 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.TabPage1 = New System.Windows.Forms.TabPage()
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.lblfinal = New System.Windows.Forms.Label()
@@ -84,10 +91,12 @@ Partial Class frmPL
         Me.TabPage2 = New System.Windows.Forms.TabPage()
         Me.Chart2 = New System.Windows.Forms.DataVisualization.Charting.Chart()
         Me.TabPage4 = New System.Windows.Forms.TabPage()
+        Me.TabControl2 = New System.Windows.Forms.TabControl()
+        Me.TabPage3 = New System.Windows.Forms.TabPage()
+        Me.TabPage5 = New System.Windows.Forms.TabPage()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label12 = New System.Windows.Forms.Label()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.DataGridView2 = New System.Windows.Forms.DataGridView()
+        Me.QuadroII = New System.Windows.Forms.DataGridView()
         Me.DataGridViewTextBoxColumn1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.DataGridViewTextBoxColumn2 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.DataGridViewTextBoxColumn3 = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -102,6 +111,25 @@ Partial Class frmPL
         Me.q1F1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.q1F2 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.q1b = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Label15 = New System.Windows.Forms.Label()
+        Me.Label16 = New System.Windows.Forms.Label()
+        Me.Label17 = New System.Windows.Forms.Label()
+        Me.QuadroIII = New System.Windows.Forms.DataGridView()
+        Me.DataGridViewTextBoxColumn7 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn8 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn9 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn10 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn11 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn12 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.txtQuadroII = New System.Windows.Forms.TextBox()
+        Me.QuadroIIb = New System.Windows.Forms.DataGridView()
+        Me.DataGridViewTextBoxColumn13 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn14 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn15 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn16 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn17 = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.DataGridViewTextBoxColumn18 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.TabPage1.SuspendLayout()
         Me.Panel1.SuspendLayout()
         CType(Me.Chart1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -109,8 +137,13 @@ Partial Class frmPL
         Me.TabPage2.SuspendLayout()
         CType(Me.Chart2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.TabPage4.SuspendLayout()
-        CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.TabControl2.SuspendLayout()
+        Me.TabPage3.SuspendLayout()
+        Me.TabPage5.SuspendLayout()
+        CType(Me.QuadroII, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.QuadroI, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.QuadroIII, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.QuadroIIb, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'TabPage1
@@ -122,7 +155,7 @@ Partial Class frmPL
         Me.TabPage1.Margin = New System.Windows.Forms.Padding(4)
         Me.TabPage1.Name = "TabPage1"
         Me.TabPage1.Padding = New System.Windows.Forms.Padding(4)
-        Me.TabPage1.Size = New System.Drawing.Size(963, 509)
+        Me.TabPage1.Size = New System.Drawing.Size(726, 509)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Text = "Definições do Problema / Solução Método Gráfico"
         Me.TabPage1.UseVisualStyleBackColor = True
@@ -249,6 +282,7 @@ Partial Class frmPL
         Me.d1f2.Name = "d1f2"
         Me.d1f2.Size = New System.Drawing.Size(48, 21)
         Me.d1f2.TabIndex = 44
+        Me.d1f2.Text = "80"
         '
         'Label9
         '
@@ -270,6 +304,7 @@ Partial Class frmPL
         Me.d1f1.Name = "d1f1"
         Me.d1f1.Size = New System.Drawing.Size(48, 21)
         Me.d1f1.TabIndex = 42
+        Me.d1f1.Text = "64"
         '
         'Label10
         '
@@ -305,6 +340,7 @@ Partial Class frmPL
         Me.v2f3.Name = "v2f3"
         Me.v2f3.Size = New System.Drawing.Size(64, 21)
         Me.v2f3.TabIndex = 39
+        Me.v2f3.Text = "250"
         '
         'Label5
         '
@@ -326,6 +362,7 @@ Partial Class frmPL
         Me.v2f2.Name = "v2f2"
         Me.v2f2.Size = New System.Drawing.Size(48, 21)
         Me.v2f2.TabIndex = 37
+        Me.v2f2.Text = "1"
         '
         'Label6
         '
@@ -347,6 +384,7 @@ Partial Class frmPL
         Me.v2f1.Name = "v2f1"
         Me.v2f1.Size = New System.Drawing.Size(48, 21)
         Me.v2f1.TabIndex = 35
+        Me.v2f1.Text = "3"
         '
         'Label7
         '
@@ -380,6 +418,7 @@ Partial Class frmPL
         Me.v1f3.Name = "v1f3"
         Me.v1f3.Size = New System.Drawing.Size(64, 21)
         Me.v1f3.TabIndex = 32
+        Me.v1f3.Text = "360"
         '
         'Label4
         '
@@ -401,6 +440,7 @@ Partial Class frmPL
         Me.v1f2.Name = "v1f2"
         Me.v1f2.Size = New System.Drawing.Size(48, 21)
         Me.v1f2.TabIndex = 30
+        Me.v1f2.Text = "5"
         '
         'Label3
         '
@@ -422,6 +462,7 @@ Partial Class frmPL
         Me.v1f1.Name = "v1f1"
         Me.v1f1.Size = New System.Drawing.Size(48, 21)
         Me.v1f1.TabIndex = 28
+        Me.v1f1.Text = "2"
         '
         'Label2
         '
@@ -455,67 +496,67 @@ Partial Class frmPL
         Me.Chart1.BorderlineColor = System.Drawing.Color.Maroon
         Me.Chart1.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid
         Me.Chart1.BorderlineWidth = 3
-        ChartArea3.AxisX.Minimum = 0.0R
-        ChartArea3.AxisY.Minimum = 0.0R
-        ChartArea3.BackColor = System.Drawing.Color.Beige
-        ChartArea3.Name = "ChartArea1"
-        Me.Chart1.ChartAreas.Add(ChartArea3)
-        Legend3.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        Legend3.DockedToChartArea = "ChartArea1"
-        Legend3.Font = New System.Drawing.Font("Courier New", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Legend3.IsTextAutoFit = False
-        Legend3.MaximumAutoSize = 75.0!
-        Legend3.Name = "Legend1"
-        Me.Chart1.Legends.Add(Legend3)
+        ChartArea1.AxisX.Minimum = 0.0R
+        ChartArea1.AxisY.Minimum = 0.0R
+        ChartArea1.BackColor = System.Drawing.Color.Beige
+        ChartArea1.Name = "ChartArea1"
+        Me.Chart1.ChartAreas.Add(ChartArea1)
+        Legend1.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
+        Legend1.DockedToChartArea = "ChartArea1"
+        Legend1.Font = New System.Drawing.Font("Courier New", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Legend1.IsTextAutoFit = False
+        Legend1.MaximumAutoSize = 75.0!
+        Legend1.Name = "Legend1"
+        Me.Chart1.Legends.Add(Legend1)
         Me.Chart1.Location = New System.Drawing.Point(459, 8)
         Me.Chart1.Margin = New System.Windows.Forms.Padding(4)
         Me.Chart1.MinimumSize = New System.Drawing.Size(497, 480)
         Me.Chart1.Name = "Chart1"
-        Series9.BorderWidth = 2
-        Series9.ChartArea = "ChartArea1"
-        Series9.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
-        Series9.Color = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Series9.Legend = "Legend1"
-        Series9.Name = "Series1"
-        Series9.Points.Add(DataPoint17)
-        Series9.Points.Add(DataPoint18)
-        Series10.BorderWidth = 2
-        Series10.ChartArea = "ChartArea1"
-        Series10.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
-        Series10.Color = System.Drawing.Color.Red
-        Series10.Legend = "Legend1"
-        Series10.Name = "Series2"
-        Series10.Points.Add(DataPoint19)
-        Series10.Points.Add(DataPoint20)
-        Series11.BackSecondaryColor = System.Drawing.Color.Lime
-        Series11.BorderColor = System.Drawing.Color.Lime
-        Series11.BorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.DashDotDot
-        Series11.BorderWidth = 2
-        Series11.ChartArea = "ChartArea1"
-        Series11.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
-        Series11.Color = System.Drawing.Color.Lime
-        Series11.IsVisibleInLegend = False
-        Series11.Legend = "Legend1"
-        Series11.Name = "Series3"
-        Series11.Points.Add(DataPoint21)
-        Series11.Points.Add(DataPoint22)
-        Series12.BackSecondaryColor = System.Drawing.Color.Lime
-        Series12.BorderColor = System.Drawing.Color.Lime
-        Series12.BorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.DashDotDot
-        Series12.BorderWidth = 2
-        Series12.ChartArea = "ChartArea1"
-        Series12.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
-        Series12.Color = System.Drawing.Color.Lime
-        Series12.IsVisibleInLegend = False
-        Series12.Legend = "Legend1"
-        Series12.Name = "Series4"
-        DataPoint23.BorderWidth = 5
-        Series12.Points.Add(DataPoint23)
-        Series12.Points.Add(DataPoint24)
-        Me.Chart1.Series.Add(Series9)
-        Me.Chart1.Series.Add(Series10)
-        Me.Chart1.Series.Add(Series11)
-        Me.Chart1.Series.Add(Series12)
+        Series1.BorderWidth = 2
+        Series1.ChartArea = "ChartArea1"
+        Series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
+        Series1.Color = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
+        Series1.Legend = "Legend1"
+        Series1.Name = "Series1"
+        Series1.Points.Add(DataPoint1)
+        Series1.Points.Add(DataPoint2)
+        Series2.BorderWidth = 2
+        Series2.ChartArea = "ChartArea1"
+        Series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
+        Series2.Color = System.Drawing.Color.Red
+        Series2.Legend = "Legend1"
+        Series2.Name = "Series2"
+        Series2.Points.Add(DataPoint3)
+        Series2.Points.Add(DataPoint4)
+        Series3.BackSecondaryColor = System.Drawing.Color.Lime
+        Series3.BorderColor = System.Drawing.Color.Lime
+        Series3.BorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.DashDotDot
+        Series3.BorderWidth = 2
+        Series3.ChartArea = "ChartArea1"
+        Series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
+        Series3.Color = System.Drawing.Color.Lime
+        Series3.IsVisibleInLegend = False
+        Series3.Legend = "Legend1"
+        Series3.Name = "Series3"
+        Series3.Points.Add(DataPoint5)
+        Series3.Points.Add(DataPoint6)
+        Series4.BackSecondaryColor = System.Drawing.Color.Lime
+        Series4.BorderColor = System.Drawing.Color.Lime
+        Series4.BorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.DashDotDot
+        Series4.BorderWidth = 2
+        Series4.ChartArea = "ChartArea1"
+        Series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
+        Series4.Color = System.Drawing.Color.Lime
+        Series4.IsVisibleInLegend = False
+        Series4.Legend = "Legend1"
+        Series4.Name = "Series4"
+        DataPoint7.BorderWidth = 5
+        Series4.Points.Add(DataPoint7)
+        Series4.Points.Add(DataPoint8)
+        Me.Chart1.Series.Add(Series1)
+        Me.Chart1.Series.Add(Series2)
+        Me.Chart1.Series.Add(Series3)
+        Me.Chart1.Series.Add(Series4)
         Me.Chart1.Size = New System.Drawing.Size(497, 480)
         Me.Chart1.TabIndex = 22
         Me.Chart1.Text = "Chart1"
@@ -530,7 +571,7 @@ Partial Class frmPL
         Me.TabControl1.Margin = New System.Windows.Forms.Padding(4)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
-        Me.TabControl1.Size = New System.Drawing.Size(971, 538)
+        Me.TabControl1.Size = New System.Drawing.Size(734, 538)
         Me.TabControl1.SizeMode = System.Windows.Forms.TabSizeMode.FillToRight
         Me.TabControl1.TabIndex = 0
         '
@@ -540,7 +581,7 @@ Partial Class frmPL
         Me.TabPage2.Location = New System.Drawing.Point(4, 25)
         Me.TabPage2.Name = "TabPage2"
         Me.TabPage2.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage2.Size = New System.Drawing.Size(963, 509)
+        Me.TabPage2.Size = New System.Drawing.Size(726, 509)
         Me.TabPage2.TabIndex = 3
         Me.TabPage2.Text = "Ver Somente o Gráfico"
         Me.TabPage2.UseVisualStyleBackColor = True
@@ -553,132 +594,171 @@ Partial Class frmPL
         Me.Chart2.BorderlineColor = System.Drawing.Color.Maroon
         Me.Chart2.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid
         Me.Chart2.BorderlineWidth = 3
-        ChartArea4.AxisX.Minimum = 0.0R
-        ChartArea4.AxisY.Minimum = 0.0R
-        ChartArea4.BackColor = System.Drawing.Color.Beige
-        ChartArea4.Name = "ChartArea1"
-        Me.Chart2.ChartAreas.Add(ChartArea4)
-        Legend4.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
-        Legend4.DockedToChartArea = "ChartArea1"
-        Legend4.Font = New System.Drawing.Font("Courier New", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Legend4.IsTextAutoFit = False
-        Legend4.MaximumAutoSize = 75.0!
-        Legend4.Name = "Legend1"
-        Me.Chart2.Legends.Add(Legend4)
+        ChartArea2.AxisX.Minimum = 0.0R
+        ChartArea2.AxisY.Minimum = 0.0R
+        ChartArea2.BackColor = System.Drawing.Color.Beige
+        ChartArea2.Name = "ChartArea1"
+        Me.Chart2.ChartAreas.Add(ChartArea2)
+        Legend2.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
+        Legend2.DockedToChartArea = "ChartArea1"
+        Legend2.Font = New System.Drawing.Font("Courier New", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Legend2.IsTextAutoFit = False
+        Legend2.MaximumAutoSize = 75.0!
+        Legend2.Name = "Legend1"
+        Me.Chart2.Legends.Add(Legend2)
         Me.Chart2.Location = New System.Drawing.Point(7, 7)
         Me.Chart2.Margin = New System.Windows.Forms.Padding(4)
         Me.Chart2.MinimumSize = New System.Drawing.Size(497, 480)
         Me.Chart2.Name = "Chart2"
-        Series13.BorderWidth = 2
-        Series13.ChartArea = "ChartArea1"
-        Series13.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
-        Series13.Color = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
-        Series13.Legend = "Legend1"
-        Series13.Name = "Series1"
-        Series13.Points.Add(DataPoint25)
-        Series13.Points.Add(DataPoint26)
-        Series14.BorderWidth = 2
-        Series14.ChartArea = "ChartArea1"
-        Series14.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
-        Series14.Color = System.Drawing.Color.Red
-        Series14.Legend = "Legend1"
-        Series14.Name = "Series2"
-        Series14.Points.Add(DataPoint27)
-        Series14.Points.Add(DataPoint28)
-        Series15.BackSecondaryColor = System.Drawing.Color.Lime
-        Series15.BorderColor = System.Drawing.Color.Lime
-        Series15.BorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.DashDotDot
-        Series15.BorderWidth = 2
-        Series15.ChartArea = "ChartArea1"
-        Series15.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
-        Series15.Color = System.Drawing.Color.Lime
-        Series15.IsVisibleInLegend = False
-        Series15.Legend = "Legend1"
-        Series15.Name = "Series3"
-        Series15.Points.Add(DataPoint29)
-        Series15.Points.Add(DataPoint30)
-        Series16.BackSecondaryColor = System.Drawing.Color.Lime
-        Series16.BorderColor = System.Drawing.Color.Lime
-        Series16.BorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.DashDotDot
-        Series16.BorderWidth = 2
-        Series16.ChartArea = "ChartArea1"
-        Series16.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
-        Series16.Color = System.Drawing.Color.Lime
-        Series16.IsVisibleInLegend = False
-        Series16.Legend = "Legend1"
-        Series16.Name = "Series4"
-        DataPoint31.BorderWidth = 5
-        Series16.Points.Add(DataPoint31)
-        Series16.Points.Add(DataPoint32)
-        Me.Chart2.Series.Add(Series13)
-        Me.Chart2.Series.Add(Series14)
-        Me.Chart2.Series.Add(Series15)
-        Me.Chart2.Series.Add(Series16)
-        Me.Chart2.Size = New System.Drawing.Size(576, 480)
+        Series5.BorderWidth = 2
+        Series5.ChartArea = "ChartArea1"
+        Series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
+        Series5.Color = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer))
+        Series5.Legend = "Legend1"
+        Series5.Name = "Series1"
+        Series5.Points.Add(DataPoint9)
+        Series5.Points.Add(DataPoint10)
+        Series6.BorderWidth = 2
+        Series6.ChartArea = "ChartArea1"
+        Series6.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
+        Series6.Color = System.Drawing.Color.Red
+        Series6.Legend = "Legend1"
+        Series6.Name = "Series2"
+        Series6.Points.Add(DataPoint11)
+        Series6.Points.Add(DataPoint12)
+        Series7.BackSecondaryColor = System.Drawing.Color.Lime
+        Series7.BorderColor = System.Drawing.Color.Lime
+        Series7.BorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.DashDotDot
+        Series7.BorderWidth = 2
+        Series7.ChartArea = "ChartArea1"
+        Series7.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
+        Series7.Color = System.Drawing.Color.Lime
+        Series7.IsVisibleInLegend = False
+        Series7.Legend = "Legend1"
+        Series7.Name = "Series3"
+        Series7.Points.Add(DataPoint13)
+        Series7.Points.Add(DataPoint14)
+        Series8.BackSecondaryColor = System.Drawing.Color.Lime
+        Series8.BorderColor = System.Drawing.Color.Lime
+        Series8.BorderDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.DashDotDot
+        Series8.BorderWidth = 2
+        Series8.ChartArea = "ChartArea1"
+        Series8.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
+        Series8.Color = System.Drawing.Color.Lime
+        Series8.IsVisibleInLegend = False
+        Series8.Legend = "Legend1"
+        Series8.Name = "Series4"
+        DataPoint15.BorderWidth = 5
+        Series8.Points.Add(DataPoint15)
+        Series8.Points.Add(DataPoint16)
+        Me.Chart2.Series.Add(Series5)
+        Me.Chart2.Series.Add(Series6)
+        Me.Chart2.Series.Add(Series7)
+        Me.Chart2.Series.Add(Series8)
+        Me.Chart2.Size = New System.Drawing.Size(689, 480)
         Me.Chart2.TabIndex = 23
         Me.Chart2.Text = "Chart2"
         '
         'TabPage4
         '
-        Me.TabPage4.Controls.Add(Me.Label1)
-        Me.TabPage4.Controls.Add(Me.Label12)
-        Me.TabPage4.Controls.Add(Me.TextBox2)
-        Me.TabPage4.Controls.Add(Me.DataGridView2)
-        Me.TabPage4.Controls.Add(Me.txtQuadroI)
-        Me.TabPage4.Controls.Add(Me.QuadroI)
+        Me.TabPage4.Controls.Add(Me.TabControl2)
         Me.TabPage4.Location = New System.Drawing.Point(4, 25)
         Me.TabPage4.Name = "TabPage4"
         Me.TabPage4.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage4.Size = New System.Drawing.Size(963, 509)
+        Me.TabPage4.Size = New System.Drawing.Size(726, 509)
         Me.TabPage4.TabIndex = 4
         Me.TabPage4.Text = "Solução Método Simplex"
         Me.TabPage4.UseVisualStyleBackColor = True
+        '
+        'TabControl2
+        '
+        Me.TabControl2.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+                    Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.TabControl2.Controls.Add(Me.TabPage3)
+        Me.TabControl2.Controls.Add(Me.TabPage5)
+        Me.TabControl2.Location = New System.Drawing.Point(12, 16)
+        Me.TabControl2.Name = "TabControl2"
+        Me.TabControl2.SelectedIndex = 0
+        Me.TabControl2.Size = New System.Drawing.Size(698, 480)
+        Me.TabControl2.TabIndex = 0
+        '
+        'TabPage3
+        '
+        Me.TabPage3.Controls.Add(Me.Label8)
+        Me.TabPage3.Controls.Add(Me.Label1)
+        Me.TabPage3.Controls.Add(Me.Label12)
+        Me.TabPage3.Controls.Add(Me.QuadroII)
+        Me.TabPage3.Controls.Add(Me.txtQuadroI)
+        Me.TabPage3.Controls.Add(Me.QuadroI)
+        Me.TabPage3.Location = New System.Drawing.Point(4, 25)
+        Me.TabPage3.Name = "TabPage3"
+        Me.TabPage3.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage3.Size = New System.Drawing.Size(690, 451)
+        Me.TabPage3.TabIndex = 0
+        Me.TabPage3.Text = "Quadro I -> Quadro II    "
+        Me.TabPage3.UseVisualStyleBackColor = True
+        '
+        'TabPage5
+        '
+        Me.TabPage5.Controls.Add(Me.Label15)
+        Me.TabPage5.Controls.Add(Me.Label16)
+        Me.TabPage5.Controls.Add(Me.Label17)
+        Me.TabPage5.Controls.Add(Me.QuadroIII)
+        Me.TabPage5.Controls.Add(Me.txtQuadroII)
+        Me.TabPage5.Controls.Add(Me.QuadroIIb)
+        Me.TabPage5.Location = New System.Drawing.Point(4, 25)
+        Me.TabPage5.Name = "TabPage5"
+        Me.TabPage5.Padding = New System.Windows.Forms.Padding(3)
+        Me.TabPage5.Size = New System.Drawing.Size(690, 451)
+        Me.TabPage5.TabIndex = 1
+        Me.TabPage5.Text = "Quadro II -> Quadro III"
+        Me.TabPage5.UseVisualStyleBackColor = True
         '
         'Label1
         '
         Me.Label1.AutoSize = True
         Me.Label1.BackColor = System.Drawing.Color.Khaki
         Me.Label1.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(21, 238)
+        Me.Label1.Location = New System.Drawing.Point(10, 234)
         Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(63, 16)
-        Me.Label1.TabIndex = 9
-        Me.Label1.Text = "Quadro I"
+        Me.Label1.Size = New System.Drawing.Size(71, 16)
+        Me.Label1.TabIndex = 13
+        Me.Label1.Text = "Quadro II "
         '
         'Label12
         '
         Me.Label12.AutoSize = True
         Me.Label12.BackColor = System.Drawing.Color.Khaki
         Me.Label12.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label12.Location = New System.Drawing.Point(21, 17)
+        Me.Label12.Location = New System.Drawing.Point(10, 13)
         Me.Label12.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(63, 16)
-        Me.Label12.TabIndex = 9
+        Me.Label12.TabIndex = 14
         Me.Label12.Text = "Quadro I"
         '
-        'TextBox2
+        'QuadroII
         '
-        Me.TextBox2.Location = New System.Drawing.Point(363, 256)
-        Me.TextBox2.Margin = New System.Windows.Forms.Padding(4)
-        Me.TextBox2.Multiline = True
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(320, 185)
-        Me.TextBox2.TabIndex = 8
-        '
-        'DataGridView2
-        '
-        Me.DataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView2.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn1, Me.DataGridViewTextBoxColumn2, Me.DataGridViewTextBoxColumn3, Me.DataGridViewTextBoxColumn4, Me.DataGridViewTextBoxColumn5, Me.DataGridViewTextBoxColumn6})
-        Me.DataGridView2.Location = New System.Drawing.Point(21, 256)
-        Me.DataGridView2.Margin = New System.Windows.Forms.Padding(4)
-        Me.DataGridView2.Name = "DataGridView2"
-        Me.DataGridView2.RowHeadersVisible = False
-        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        Me.DataGridView2.RowsDefaultCellStyle = DataGridViewCellStyle3
-        Me.DataGridView2.Size = New System.Drawing.Size(323, 185)
-        Me.DataGridView2.TabIndex = 7
+        Me.QuadroII.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.QuadroII.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn1, Me.DataGridViewTextBoxColumn2, Me.DataGridViewTextBoxColumn3, Me.DataGridViewTextBoxColumn4, Me.DataGridViewTextBoxColumn5, Me.DataGridViewTextBoxColumn6})
+        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle1.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.QuadroII.DefaultCellStyle = DataGridViewCellStyle1
+        Me.QuadroII.Location = New System.Drawing.Point(10, 252)
+        Me.QuadroII.Margin = New System.Windows.Forms.Padding(4)
+        Me.QuadroII.Name = "QuadroII"
+        Me.QuadroII.RowHeadersVisible = False
+        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        Me.QuadroII.RowsDefaultCellStyle = DataGridViewCellStyle2
+        Me.QuadroII.Size = New System.Drawing.Size(323, 185)
+        Me.QuadroII.TabIndex = 11
         '
         'DataGridViewTextBoxColumn1
         '
@@ -718,25 +798,50 @@ Partial Class frmPL
         '
         'txtQuadroI
         '
-        Me.txtQuadroI.Location = New System.Drawing.Point(363, 35)
+        Me.txtQuadroI.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+                    Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txtQuadroI.Font = New System.Drawing.Font("Courier New", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtQuadroI.Location = New System.Drawing.Point(354, 31)
         Me.txtQuadroI.Margin = New System.Windows.Forms.Padding(4)
         Me.txtQuadroI.Multiline = True
         Me.txtQuadroI.Name = "txtQuadroI"
-        Me.txtQuadroI.Size = New System.Drawing.Size(320, 185)
-        Me.txtQuadroI.TabIndex = 8
+        Me.txtQuadroI.ScrollBars = System.Windows.Forms.ScrollBars.Both
+        Me.txtQuadroI.Size = New System.Drawing.Size(320, 406)
+        Me.txtQuadroI.TabIndex = 12
+        Me.txtQuadroI.WordWrap = False
         '
         'QuadroI
         '
         Me.QuadroI.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.QuadroI.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Base, Me.q1x1, Me.q1x2, Me.q1F1, Me.q1F2, Me.q1b})
-        Me.QuadroI.Location = New System.Drawing.Point(21, 35)
+        DataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle3.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.QuadroI.DefaultCellStyle = DataGridViewCellStyle3
+        Me.QuadroI.Location = New System.Drawing.Point(10, 31)
         Me.QuadroI.Margin = New System.Windows.Forms.Padding(4)
         Me.QuadroI.Name = "QuadroI"
+        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle4.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.QuadroI.RowHeadersDefaultCellStyle = DataGridViewCellStyle4
         Me.QuadroI.RowHeadersVisible = False
-        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
-        Me.QuadroI.RowsDefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        DataGridViewCellStyle5.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.QuadroI.RowsDefaultCellStyle = DataGridViewCellStyle5
+        Me.QuadroI.RowTemplate.DefaultCellStyle.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.QuadroI.RowTemplate.Resizable = System.Windows.Forms.DataGridViewTriState.[True]
         Me.QuadroI.Size = New System.Drawing.Size(323, 185)
-        Me.QuadroI.TabIndex = 7
+        Me.QuadroI.TabIndex = 10
         '
         'Base
         '
@@ -774,12 +879,189 @@ Partial Class frmPL
         Me.q1b.Name = "q1b"
         Me.q1b.Width = 50
         '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.BackColor = System.Drawing.Color.Khaki
+        Me.Label8.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label8.Location = New System.Drawing.Point(351, 13)
+        Me.Label8.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(154, 16)
+        Me.Label8.TabIndex = 15
+        Me.Label8.Text = "Seqüência de Cálculos"
+        '
+        'Label15
+        '
+        Me.Label15.AutoSize = True
+        Me.Label15.BackColor = System.Drawing.Color.Khaki
+        Me.Label15.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label15.Location = New System.Drawing.Point(351, 13)
+        Me.Label15.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label15.Name = "Label15"
+        Me.Label15.Size = New System.Drawing.Size(154, 16)
+        Me.Label15.TabIndex = 21
+        Me.Label15.Text = "Seqüência de Cálculos"
+        '
+        'Label16
+        '
+        Me.Label16.AutoSize = True
+        Me.Label16.BackColor = System.Drawing.Color.Khaki
+        Me.Label16.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label16.Location = New System.Drawing.Point(10, 234)
+        Me.Label16.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label16.Name = "Label16"
+        Me.Label16.Size = New System.Drawing.Size(71, 16)
+        Me.Label16.TabIndex = 19
+        Me.Label16.Text = "Quadro III"
+        '
+        'Label17
+        '
+        Me.Label17.AutoSize = True
+        Me.Label17.BackColor = System.Drawing.Color.Khaki
+        Me.Label17.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label17.Location = New System.Drawing.Point(10, 13)
+        Me.Label17.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label17.Name = "Label17"
+        Me.Label17.Size = New System.Drawing.Size(67, 16)
+        Me.Label17.TabIndex = 20
+        Me.Label17.Text = "Quadro II"
+        '
+        'QuadroIII
+        '
+        Me.QuadroIII.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.QuadroIII.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn7, Me.DataGridViewTextBoxColumn8, Me.DataGridViewTextBoxColumn9, Me.DataGridViewTextBoxColumn10, Me.DataGridViewTextBoxColumn11, Me.DataGridViewTextBoxColumn12})
+        DataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle6.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.QuadroIII.DefaultCellStyle = DataGridViewCellStyle6
+        Me.QuadroIII.Location = New System.Drawing.Point(10, 252)
+        Me.QuadroIII.Margin = New System.Windows.Forms.Padding(4)
+        Me.QuadroIII.Name = "QuadroIII"
+        Me.QuadroIII.RowHeadersVisible = False
+        DataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        Me.QuadroIII.RowsDefaultCellStyle = DataGridViewCellStyle7
+        Me.QuadroIII.Size = New System.Drawing.Size(323, 185)
+        Me.QuadroIII.TabIndex = 17
+        '
+        'DataGridViewTextBoxColumn7
+        '
+        Me.DataGridViewTextBoxColumn7.HeaderText = "Base"
+        Me.DataGridViewTextBoxColumn7.Name = "DataGridViewTextBoxColumn7"
+        Me.DataGridViewTextBoxColumn7.Width = 50
+        '
+        'DataGridViewTextBoxColumn8
+        '
+        Me.DataGridViewTextBoxColumn8.HeaderText = "x1"
+        Me.DataGridViewTextBoxColumn8.Name = "DataGridViewTextBoxColumn8"
+        Me.DataGridViewTextBoxColumn8.Width = 50
+        '
+        'DataGridViewTextBoxColumn9
+        '
+        Me.DataGridViewTextBoxColumn9.HeaderText = "x2"
+        Me.DataGridViewTextBoxColumn9.Name = "DataGridViewTextBoxColumn9"
+        Me.DataGridViewTextBoxColumn9.Width = 50
+        '
+        'DataGridViewTextBoxColumn10
+        '
+        Me.DataGridViewTextBoxColumn10.HeaderText = "F1"
+        Me.DataGridViewTextBoxColumn10.Name = "DataGridViewTextBoxColumn10"
+        Me.DataGridViewTextBoxColumn10.Width = 50
+        '
+        'DataGridViewTextBoxColumn11
+        '
+        Me.DataGridViewTextBoxColumn11.HeaderText = "F2"
+        Me.DataGridViewTextBoxColumn11.Name = "DataGridViewTextBoxColumn11"
+        Me.DataGridViewTextBoxColumn11.Width = 50
+        '
+        'DataGridViewTextBoxColumn12
+        '
+        Me.DataGridViewTextBoxColumn12.HeaderText = "b"
+        Me.DataGridViewTextBoxColumn12.Name = "DataGridViewTextBoxColumn12"
+        Me.DataGridViewTextBoxColumn12.Width = 50
+        '
+        'txtQuadroII
+        '
+        Me.txtQuadroII.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+                    Or System.Windows.Forms.AnchorStyles.Left) _
+                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txtQuadroII.Font = New System.Drawing.Font("Courier New", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtQuadroII.Location = New System.Drawing.Point(354, 31)
+        Me.txtQuadroII.Margin = New System.Windows.Forms.Padding(4)
+        Me.txtQuadroII.Multiline = True
+        Me.txtQuadroII.Name = "txtQuadroII"
+        Me.txtQuadroII.ScrollBars = System.Windows.Forms.ScrollBars.Both
+        Me.txtQuadroII.Size = New System.Drawing.Size(320, 406)
+        Me.txtQuadroII.TabIndex = 18
+        Me.txtQuadroII.WordWrap = False
+        '
+        'QuadroIIb
+        '
+        Me.QuadroIIb.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.QuadroIIb.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn13, Me.DataGridViewTextBoxColumn14, Me.DataGridViewTextBoxColumn15, Me.DataGridViewTextBoxColumn16, Me.DataGridViewTextBoxColumn17, Me.DataGridViewTextBoxColumn18})
+        DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Window
+        DataGridViewCellStyle8.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.ControlText
+        DataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight
+        DataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText
+        DataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
+        Me.QuadroIIb.DefaultCellStyle = DataGridViewCellStyle8
+        Me.QuadroIIb.Location = New System.Drawing.Point(10, 31)
+        Me.QuadroIIb.Margin = New System.Windows.Forms.Padding(4)
+        Me.QuadroIIb.Name = "QuadroIIb"
+        Me.QuadroIIb.RowHeadersVisible = False
+        DataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight
+        Me.QuadroIIb.RowsDefaultCellStyle = DataGridViewCellStyle9
+        Me.QuadroIIb.Size = New System.Drawing.Size(323, 185)
+        Me.QuadroIIb.TabIndex = 16
+        '
+        'DataGridViewTextBoxColumn13
+        '
+        Me.DataGridViewTextBoxColumn13.HeaderText = "Base"
+        Me.DataGridViewTextBoxColumn13.Name = "DataGridViewTextBoxColumn13"
+        Me.DataGridViewTextBoxColumn13.Width = 50
+        '
+        'DataGridViewTextBoxColumn14
+        '
+        Me.DataGridViewTextBoxColumn14.HeaderText = "x1"
+        Me.DataGridViewTextBoxColumn14.Name = "DataGridViewTextBoxColumn14"
+        Me.DataGridViewTextBoxColumn14.Width = 50
+        '
+        'DataGridViewTextBoxColumn15
+        '
+        Me.DataGridViewTextBoxColumn15.HeaderText = "x2"
+        Me.DataGridViewTextBoxColumn15.Name = "DataGridViewTextBoxColumn15"
+        Me.DataGridViewTextBoxColumn15.Width = 50
+        '
+        'DataGridViewTextBoxColumn16
+        '
+        Me.DataGridViewTextBoxColumn16.HeaderText = "F1"
+        Me.DataGridViewTextBoxColumn16.Name = "DataGridViewTextBoxColumn16"
+        Me.DataGridViewTextBoxColumn16.Width = 50
+        '
+        'DataGridViewTextBoxColumn17
+        '
+        Me.DataGridViewTextBoxColumn17.HeaderText = "F2"
+        Me.DataGridViewTextBoxColumn17.Name = "DataGridViewTextBoxColumn17"
+        Me.DataGridViewTextBoxColumn17.Width = 50
+        '
+        'DataGridViewTextBoxColumn18
+        '
+        Me.DataGridViewTextBoxColumn18.HeaderText = "b"
+        Me.DataGridViewTextBoxColumn18.Name = "DataGridViewTextBoxColumn18"
+        Me.DataGridViewTextBoxColumn18.Width = 50
+        '
         'frmPL
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoScroll = True
-        Me.ClientSize = New System.Drawing.Size(997, 562)
+        Me.ClientSize = New System.Drawing.Size(760, 562)
         Me.Controls.Add(Me.TabControl1)
         Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Margin = New System.Windows.Forms.Padding(4)
@@ -796,9 +1078,15 @@ Partial Class frmPL
         Me.TabPage2.ResumeLayout(False)
         CType(Me.Chart2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.TabPage4.ResumeLayout(False)
-        Me.TabPage4.PerformLayout()
-        CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.TabControl2.ResumeLayout(False)
+        Me.TabPage3.ResumeLayout(False)
+        Me.TabPage3.PerformLayout()
+        Me.TabPage5.ResumeLayout(False)
+        Me.TabPage5.PerformLayout()
+        CType(Me.QuadroII, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.QuadroI, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.QuadroIII, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.QuadroIIb, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -834,7 +1122,17 @@ Partial Class frmPL
     Friend WithEvents TabPage2 As System.Windows.Forms.TabPage
     Friend WithEvents Chart2 As System.Windows.Forms.DataVisualization.Charting.Chart
     Friend WithEvents TabPage4 As System.Windows.Forms.TabPage
+    Friend WithEvents TabControl2 As System.Windows.Forms.TabControl
+    Friend WithEvents TabPage3 As System.Windows.Forms.TabPage
+    Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents Label12 As System.Windows.Forms.Label
+    Friend WithEvents QuadroII As System.Windows.Forms.DataGridView
+    Friend WithEvents DataGridViewTextBoxColumn1 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn2 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn3 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn4 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn5 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn6 As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents txtQuadroI As System.Windows.Forms.TextBox
     Friend WithEvents QuadroI As System.Windows.Forms.DataGridView
     Friend WithEvents Base As System.Windows.Forms.DataGridViewTextBoxColumn
@@ -843,14 +1141,25 @@ Partial Class frmPL
     Friend WithEvents q1F1 As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents q1F2 As System.Windows.Forms.DataGridViewTextBoxColumn
     Friend WithEvents q1b As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents Label1 As System.Windows.Forms.Label
-    Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
-    Friend WithEvents DataGridView2 As System.Windows.Forms.DataGridView
-    Friend WithEvents DataGridViewTextBoxColumn1 As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents DataGridViewTextBoxColumn2 As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents DataGridViewTextBoxColumn3 As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents DataGridViewTextBoxColumn4 As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents DataGridViewTextBoxColumn5 As System.Windows.Forms.DataGridViewTextBoxColumn
-    Friend WithEvents DataGridViewTextBoxColumn6 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents TabPage5 As System.Windows.Forms.TabPage
+    Friend WithEvents Label8 As System.Windows.Forms.Label
+    Friend WithEvents Label15 As System.Windows.Forms.Label
+    Friend WithEvents Label16 As System.Windows.Forms.Label
+    Friend WithEvents Label17 As System.Windows.Forms.Label
+    Friend WithEvents QuadroIII As System.Windows.Forms.DataGridView
+    Friend WithEvents DataGridViewTextBoxColumn7 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn8 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn9 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn10 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn11 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn12 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents txtQuadroII As System.Windows.Forms.TextBox
+    Friend WithEvents QuadroIIb As System.Windows.Forms.DataGridView
+    Friend WithEvents DataGridViewTextBoxColumn13 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn14 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn15 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn16 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn17 As System.Windows.Forms.DataGridViewTextBoxColumn
+    Friend WithEvents DataGridViewTextBoxColumn18 As System.Windows.Forms.DataGridViewTextBoxColumn
 
 End Class
